@@ -1,8 +1,8 @@
-# tip_familyTree
+# familyTree
 This section introduces the notebook's purpose which is to demonstrate the use of **TIP**, the Technology Intelligence Platform. It is a real life example using data from **OPS**, the Open Patent Services from **EPO**.
 
-By leveraging DiviTree data from Open Patent Services, OPS, and using the sunburst chart of the Plotly library, PatentSpere visually offers a spherical, colourful and dynamic representation of EP / WO divisional patents and their relationships by branches and by parent-child affiliation, that can be zoomed intuitively. 
+By leveraging family data from Open Patent Services, OPS, and using the sunburst chart of the Plotly library, DiviTree visually offers a spherical, colourful and dynamic representation of EP / WO divisional patents and their relationships by branches and by parent-child affiliation, that can be zoomed intuitively. 
 
-EP / WO family tree of the patent application EP09164213 in stock at EPO:
-![image](https://github.com/user-attachments/assets/415bab64-2dbd-4803-82c3-8f4c4f1847d7)
+EP family tree of the patent application EP09164213 in stock at EPO, where each of the four branches is part of a simple family:
+![](Images/EP09164213_EP_only.jpg)
 
