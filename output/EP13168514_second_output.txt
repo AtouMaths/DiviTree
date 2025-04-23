@@ -1,9 +1,0 @@
-
-Starting Second Tree Generation EP13168514
-Divisional Applications (7) including: 3 EPs + 3 USs + 1 WO (alternative tree)
-
-, US201414276716 
-, , WO2020US10051420 (alternative tree)
-, , , EP2010774323 (alternative tree)
-, , , , EP2013168506 (alternative tree)
-, , , , EP2013168514 (alternative tree)
