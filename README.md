@@ -1,8 +1,10 @@
 # From familyTree to DiviTree
-This section introduces the notebook's purpose which is to demonstrate the use of **TIP**, the Technology Intelligence Platform. It is a real life example using data from **OPS**, the Open Patent Services from **EPO**.
+This section introduces the purpose of the notebook: to demonstrate the use of **TIP**, the Technology Intelligence Platform, through a real life example using data from **OPS**, the EPO's Open Patent Services.
 
-By leveraging the family method from Open Patent Services, OPS, accesses to the INPADOC family, and using the sunburst chart of the Plotly library, familyTree visually offers a spherical, colourful and dynamic representation of family patents and their relationships by branches and by parent-child affiliation, that can be zoomed intuitively. When applied to divisional applications it is also called DiviTree, which shows EP / WO family members in stock at EPO and the corresponding national applications converted from EP applications.
+By leveraging the family method in OPS, which provides access to the INPADOC family, and visualizing the results with Plotly's sunburst chart, familyTree offers a vibrant, spherical, and interactive view of patent families. It shows relationships by branches and parent-child links in a format that can be intuitively explored through zooming and clicking. 
 
-EP family tree of the patent application EP09164213 in stock at EPO, where each of the four branches is part of a simple family:
+When applied to divisional applications, this approach s referred to as DiviTree. It displays EP/WO family members available at EPO, along with corresponding national applications converted from EP applications.
+
+Below is the EP family tree of patent application EP09164213, available at EPO, where each of the four branches corresponds to a distinct simple family:
 ![](images/EP09164213_EP_only.jpg)
 
