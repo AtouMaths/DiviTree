@@ -6,5 +6,6 @@ By leveraging the family method in OPS, which provides access to the INPADOC fam
 When applied to divisional applications, this approach s referred to as DiviTree. It displays EP/WO family members available at EPO, along with corresponding national applications converted from EP applications.
 
 Below is the EP family tree of patent application EP09164213, available at EPO, where each of the four branches corresponds to a distinct simple family:
+
 ![](images/EP09164213_EP_only.jpg)
 
