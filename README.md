@@ -3,7 +3,7 @@ This section introduces the purpose of the notebook: to demonstrate the use of *
 
 By leveraging the family method in OPS, which provides access to the INPADOC family, and visualizing the results with Plotly's sunburst chart, familyTree offers a vibrant, spherical, and interactive view of patent families. It shows relationships by branches and parent-child links in a format that can be intuitively explored through zooming and clicking. 
 
-When applied to divisional applications, this approach is referred to as DiviTree. DiviTree first creates a text tree as in the example given here for EP09164213:
+When applied to divisional applications, this approach is referred to as DiviTree, which first creates a text tree as in the example given here:
 
 ![](images/EP09164213_Tree_file.jpg)
 
