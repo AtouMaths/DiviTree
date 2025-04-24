@@ -13,7 +13,8 @@ Below is the EP family tree of patent application EP09164213, available at EPO, 
 
 DiviTree can further display EP/WO family members available at EPO, along with corresponding national applications converted from EP applications:
 
-<img src="images/EP09164213_EPs_WOs.jpg" width="333"/>
-<img src="images/EP09164213_EP_WO_HK_MX_SG_TW.jpg" width="333"/>
-<img src="images/EP09164213_DiviTree_EP_WO_HK_MX_SG_TW.jpg" width="333"/>
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="images/EP09164213_EPs_WOs.jpg" width="300"/>
+  <img src="images/EP09164213_EP_WO_HK_MX_SG_TW.jpg" width="300"/>
+  <img src="images/EP09164213_DiviTree_EP_WO_HK_MX_SG_TW.jpg" width="300"/>
+</div>
