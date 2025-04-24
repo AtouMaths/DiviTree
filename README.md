@@ -7,7 +7,7 @@ When applied to divisional applications, this approach is referred to as **DiviT
 
 ![](images/EP09164213_Tree_file.jpg)
 
-Below is the EP family tree of patent application **EP09164213**, available at EPO, where each of the four branches corresponds to a distinct simple family:
+Below is the EP family tree of patent application **EP09164213**, available at the EPO, where each of the four branches corresponds to a distinct simple family:
 
 ![](images/EP09164213_EP_only.jpg)
 
