@@ -19,6 +19,6 @@ DiviTree can further display EP/WO family members available at EPO, along with c
   <img src="images/EP09164213_DiviTree_EP_WO_HK_MX_SG_TW.jpg" width="600"/>
 </div>
 
-To conclude DiviTree can give an overview of all INPADOC filings in the family of the applicatiion EP09164213:
+To conclude DiviTree can give an overview of all INPADOC filings found in the family of the application EP09164213:
 
 ![](images/EP09164213_INPADOC.jpg)
