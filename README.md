@@ -7,9 +7,10 @@ When applied to divisional applications, this approach is referred to as DiviTre
 
 ![](images/EP09164213_Tree_file.jpg)
 
-It can then display EP/WO family members available at EPO, along with corresponding national applications converted from EP applications.
-
 Below is the EP family tree of patent application EP09164213, available at EPO, where each of the four branches corresponds to a distinct simple family:
 
 ![](images/EP09164213_EP_only.jpg)
 
+DiviTree can further display EP/WO family members available at EPO, along with corresponding national applications converted from EP applications.
+
+![](images/EP09164213_EPs_WOs.jpg)   ![](images/EP09164213_EP_WO_HK_MX_SG_TW.jpg)
