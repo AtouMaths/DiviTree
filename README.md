@@ -1,17 +1,17 @@
 # From familyTree to DiviTree
 This section introduces the purpose of the notebook: to demonstrate the use of **TIP**, the Technology Intelligence Platform, through a real life example using data from **OPS**, the EPO's Open Patent Services.
 
-By leveraging the family method in OPS, which provides access to the INPADOC family, and visualizing the results with Plotly's sunburst chart, familyTree offers a vibrant, spherical, and interactive view of patent families. It shows relationships by branches and parent-child links in a format that can be intuitively explored through zooming and clicking. 
+By leveraging the family method in OPS, which provides access to the INPADOC family, and visualizing the results with Plotly's sunburst chart, **familyTree** offers a vibrant, spherical, and interactive view of patent families. It shows relationships by branches and parent-child links in a format that can be intuitively explored through zooming and clicking. 
 
-When applied to divisional applications, this approach is referred to as DiviTree, which first creates a text tree as in the example given here:
+When applied to divisional applications, this approach is referred to as **DiviTree**, which first creates a text-based tree as illustrated in the example below:
 
 ![](images/EP09164213_Tree_file.jpg)
 
-Below is the EP family tree of patent application EP09164213, available at EPO, where each of the four branches corresponds to a distinct simple family:
+Below is the EP family tree of patent application **EP09164213**, available at EPO, where each of the four branches corresponds to a distinct simple family:
 
 ![](images/EP09164213_EP_only.jpg)
 
-DiviTree can further display EP/WO family members available at EPO, along with corresponding national applications converted from EP applications:
+**DiviTree** can further display EP/WO family members available at the EPO, along with corresponding national applications converted from EP applications:
 
 <div style="display: flex; justify-content: space-between;">
   <img src="images/EP09164213_EPs_WOs.jpg" width="500"/>
@@ -19,6 +19,6 @@ DiviTree can further display EP/WO family members available at EPO, along with c
   <img src="images/EP09164213_DiviTree_EP_WO_HK_MX_SG_TW.jpg" width="600"/>
 </div>
 
-To conclude DiviTree can give an overview of all INPADOC filings found in the family of the application EP09164213:
+Finally, **DiviTree** can give an overview of all INPADOC filings found in the family of application **EP09164213**:
 
 ![](images/EP09164213_INPADOC.jpg)
