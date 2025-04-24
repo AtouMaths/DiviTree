@@ -1,13 +1,13 @@
 # From familyTree to DiviTree
 This section introduces the purpose of the notebook: to demonstrate the use of **TIP**, the Technology Intelligence Platform, through a real life example using data from **OPS**, the EPO's Open Patent Services.
 
-By leveraging the family method in OPS, which provides access to the **INPADOC family**, also called **extended family**, and visualizing the results with Plotly's sunburst chart, **familyTree** offers a vibrant, spherical, and interactive view of patent families. It shows relationships by branches and parent-child links in a format that can be intuitively explored through zooming and clicking. 
+By leveraging the family method in OPS, which provides access to the **INPADOC extended patent family**, and visualizing the results with Plotly's sunburst chart, **familyTree** offers a vibrant, spherical, and interactive view of patent families. It shows relationships by branches and parent-child links in a format that can be intuitively explored through zooming and clicking. 
 
 When applied to divisional applications, this approach is referred to as **DiviTree**, which first creates a text-based tree as illustrated in the example below:
 
 ![](images/EP09164213_Tree_file.jpg)
 
-Below is the EP family tree of patent application **EP09164213**, available at the EPO, where each of the four branches corresponds to a distinct **DOCDB family** also called **simple family**:
+Below is the EP family tree of patent application **EP09164213**, available at the EPO, where each of the four branches corresponds to a distinct **DOCDB simple patent family**:
 
 ![](images/EP09164213_EP_only.jpg)
 
